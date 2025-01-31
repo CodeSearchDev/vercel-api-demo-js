@@ -34,7 +34,7 @@ This project demonstrates the deployment of two types of API routes on Vercel: o
 
 You can easily deploy your own instance of the API by clicking the button below:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sumitkolhe/jiosaavn-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repositoryhttps://github.com/CodeSearchDev/vercel-api-demo-js)
 
 ## Vercel Configuration
 
